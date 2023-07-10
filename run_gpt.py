@@ -8,17 +8,11 @@ import json
 from tqdm import tqdm
 
 # 设置代理
-# os.environ['http_proxy'] = 'http://127.0.0.1:7890'
-# os.environ['http_proxy'] = <local_proxy_link>
-# os.environ['https_proxy'] = 'http://127.0.0.1:7890'
-# os.environ['https_proxy'] = <local_proxy_link>
+os.environ['http_proxy'] = <local_proxy_link>
+os.environ['https_proxy'] = <local_proxy_link>
 
 # 添加api key
-## mine:
-# openai.api_key = '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'
-# openai.api_key = <your_api_keys>
-## jgc's:
-openai.api_key = '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'
+openai.api_key = <your_api_keys>
 
 def chatgpt(content, temperature,dataset_name,shot_filepath=False):
     delimiter = '```'
