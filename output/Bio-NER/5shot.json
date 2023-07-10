@@ -1,0 +1,73 @@
+[
+    {
+        "TEXT": "IL-2 gene expression and NF-kappa B activation through CD28 requires reactive oxygen production by 5-lipoxygenase .",
+        "NEs": {
+            "DNA": [
+                "IL-2 gene"
+            ],
+            "protein": [
+                "NF-kappa B",
+                "CD28",
+                "5-lipoxygenase"
+            ]
+        }
+    },
+    {
+        "TEXT": "This differential effect of E1A expression on the cytolytic phenotypes of infected and stably transfected human cells suggests that human NK cells provide an effective immunologic barrier against the in vivo survival and neoplastic progression of E1A-immortalized cells that may emerge from the reservoir of persistently infected cells in the human host .",
+        "NEs": {
+            "protein": [
+                "E1A"
+            ],
+            "cell_type": [
+                "human cells",
+                "human NK cells",
+                "persistently infected cells"
+            ],
+            "cell_line": [
+                "E1A-immortalized cells"
+            ]
+        }
+    },
+    {
+        "TEXT": "In addition , when used together IL-2 and IL-12 synergized in the induction of IFN-gamma and GM-CSF and this synergy was attributed to an increased accumulation and stability of the IFN-gamma and GM-CSF mRNAs .",
+        "NEs": {
+            "protein": [
+                "IL-2",
+                "IL-12",
+                "IFN-gamma",
+                "GM-CSF"
+            ],
+            "RNA": [
+                "IFN-gamma and GM-CSF mRNAs"
+            ]
+        }
+    },
+    {
+        "TEXT": "In contrast , IL-12 induction of IFN-gamma cytoplasmic mRNA appears to only partially depend on activation of protein kinase C .",
+        "NEs": {
+            "protein": [
+                "IL-12",
+                "protein kinase C"
+            ],
+            "RNA": [
+                "IFN-gamma cytoplasmic mRNA"
+            ]
+        }
+    },
+    {
+        "TEXT": "Northern blot analysis indicated the expression of human PEBP2 alpha A , alpha B ( AML1 ) , and beta genes in Jurkat cells .",
+        "NEs": {
+            "protein": [
+                "PEBP2 alpha A"
+            ],
+            "DNA": [
+                "alpha B",
+                "AML1",
+                "beta genes"
+            ],
+            "cell_line": [
+                "Jurkat cells"
+            ]
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "TEXT": "Swan upping : first stop Hermitage Warf , Tower Bridge ( Tower and Olympic rings in the background ) http://t.co/pQdOHx3s",
+        "NEs": {
+            "LOC": [
+                "Hermitage Warf",
+                "Tower Bridge",
+                "Tower"
+            ],
+            "OTHER": [
+                "Olympic"
+            ]
+        }
+    },
+    {
+        "TEXT": "CPS says Dyett High to reopen as arts-focused school ; hunger strikers not appeased http://t.co/Odv3Mased9 http://t.co/a1Thw5o9UD",
+        "NEs": {
+            "ORG": [
+                "CPS",
+                "Dyett High"
+            ]
+        }
+    },
+    {
+        "TEXT": "@PerSources14 Gregg Popovich was asked about Becky Hammon and the social progress the NBA has made . Via : @SBNationNBA http://t.co/sJr1QQoGhR",
+        "NEs": {
+            "PER": [
+                "Gregg Popovich",
+                "Becky Hammon"
+            ],
+            "OTHER": [
+                "NBA"
+            ]
+        }
+    }
+]

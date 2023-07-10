@@ -1,0 +1,42 @@
+[
+    {
+        "TEXT": "RT @DamnTeenQuotes : I remember when i was your age , spencer from iCarly was Crazy Steve , Carly was Megan and Josh was fat . #damnteenquotes",
+        "NEs": {
+            "person": [
+                "spencer",
+                "Crazy Steve",
+                "Carly",
+                "Megan",
+                "Josh"
+            ],
+            "creative_work": [
+                "iCarly"
+            ]
+        }
+    },
+    {
+        "TEXT": "There 's a lot of people showing off their iPhones on facebook today , so &lt; so is at such a place , it 's really not that interesting ;o )",
+        "NEs": {
+            "product": [
+                "iPhones"
+            ],
+            "corporation": [
+                "facebook"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @claywsyx6 : THE FOOTBALL FEVER : Ohio head coach Frank Solich says Ohio State knows they have a special team and season underway . Long ...",
+        "NEs": {
+            "location": [
+                "Ohio"
+            ],
+            "person": [
+                "Frank Solich"
+            ],
+            "group": [
+                "Ohio State"
+            ]
+        }
+    }
+]

@@ -1,0 +1,1013 @@
+[
+    {
+        "TEXT": "Number of glucocorticoid receptors in lymphocytes and their sensitivity to hormone action .",
+        "NEs": {
+            "protein": [
+                "glucocorticoid receptors"
+            ],
+            "cell_type": [
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "The study demonstrated a decreased level of glucocorticoid receptors ( GR ) in peripheral blood lymphocytes from hypercholesterolemic subjects , and an elevated level in patients with acute myocardial infarction .",
+        "NEs": {
+            "protein": [
+                "glucocorticoid receptors",
+                "GR"
+            ],
+            "cell_type": [
+                "peripheral blood lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "In the lymphocytes with a high GR number , dexamethasone inhibited [ 3H ] -thymidine and [ 3H ] -acetate incorporation into DNA and cholesterol , respectively , in the same manner as in the control cells .",
+        "NEs": {
+            "cell_type": [
+                "lymphocytes",
+                "control cells"
+            ],
+            "protein": [
+                "GR"
+            ]
+        }
+    },
+    {
+        "TEXT": "On the other hand , a decreased GR number resulted in a less efficient dexamethasone inhibition of the incorporation of labeled compounds .",
+        "NEs": {
+            "protein": [
+                "GR"
+            ]
+        }
+    },
+    {
+        "TEXT": "These data showed that the sensitivity of lymphocytes to glucocorticoids changed only with a decrease of GR level .",
+        "NEs": {
+            "cell_type": [
+                "lymphocytes"
+            ],
+            "protein": [
+                "GR"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ 1 , 25-Dihydroxyvitamin D3 receptors in lymphocytes and T- and B-lymphocyte count in patients with glomerulonephritis ]",
+        "NEs": {
+            "protein": [
+                "1 , 25-Dihydroxyvitamin D3 receptors"
+            ],
+            "cell_type": [
+                "lymphocytes",
+                "T- and B-lymphocyte"
+            ]
+        }
+    },
+    {
+        "TEXT": "Content of receptors to hormonal form of vitamin D3 , 1.25 ( OH ) 2D3 , constituted 27.3 fmole/mg of protein in lymphocytes of peripheric blood of children with glomerulonephritis .",
+        "NEs": {
+            "cell_type": [
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "In the patients concentration of total and ionized form of Ca2+ was decreased down to 2.04 mmole/L and 1.09 mmole/L , respectively , while an increase in parathormone ( PTH ) by 36 % and a distinct decrease in 25 ( OH ) D concentration ( lower than 1.25 ng/ml ) was found in blood ; content of cAMP was also decreased in lymphocytes by 33 % .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "At the same time , total content of T lymphocytes was decreased 1.5-fold in peripheric blood .",
+        "NEs": {
+            "cell_type": [
+                "T lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Treatment with I-hydroxyvitamin D3 ( 1-1.5 mg daily , within 4 weeks ) led to normalization of total and ionized form of Ca2+ and of 25 ( OH ) D , but did not affect the PTH content in blood .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Concentration of the receptors to 1.25 ( OH ) 2D3 was elevated up to 39.7 fmole/mg after I week of the treatment , whereas it was decreased to the initial level 24.8 fmole/mg within 4 weeks ; simultaneous alteration in the cAMP content was observed in lymphocytes .",
+        "NEs": {
+            "protein": [
+                "receptors"
+            ],
+            "cell_type": [
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Treatment with 1- ( OH ) D3 normalized also the T lymphocytes content in peripheric blood .",
+        "NEs": {
+            "cell_type": [
+                "T lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "The data obtained suggest that under conditions of glomerulonephritis only high content of receptors to 1.25 ( OH ) 2D3 in lymphocytes enabled to perform the cell response to the hormone effect .",
+        "NEs": {
+            "protein": [
+                "receptors"
+            ],
+            "cell_type": [
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Tumor and serum beta-2-microglobulin expression in women with breast cancer .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "To investigate whether the tumor expression of beta-2-microglobulin ( beta 2-M ) could serve as a marker of tumor biologic behavior , the authors studied specimens of breast carcinomas from 60 consecutive female patients .",
+        "NEs": {
+            "cell_type": [
+                "tumor",
+                "breast carcinomas"
+            ],
+            "protein": [
+                "beta-2-microglobulin",
+                "beta 2-M"
+            ]
+        }
+    },
+    {
+        "TEXT": "Presence of beta 2-M was analyzed by immunohistochemistry .",
+        "NEs": {
+            "protein": [
+                "beta 2-M"
+            ]
+        }
+    },
+    {
+        "TEXT": "No significant correlations were found between tumor beta 2-M expression and several histologic attributes such as type , histologic and nuclear grades , mitotic index , necrosis , vascular invasion , and lymphocytic infiltration .",
+        "NEs": {
+            "protein": [
+                "tumor beta 2-M"
+            ]
+        }
+    },
+    {
+        "TEXT": "Likewise , beta 2-M was not associated with markers of disease extension such as TNM , ( UICC , classification of malignant tumors ) staging and axillary lymph node involvement or with estrogen , progesterone , and glucocorticoid receptor levels .",
+        "NEs": {
+            "protein": [
+                "beta 2-M"
+            ],
+            "cell_type": [
+                "malignant tumors"
+            ]
+        }
+    },
+    {
+        "TEXT": "However , there was a significantly positive association between tumor beta 2-M expression and the degree of lymphocytic infiltration in the tumor tissue .",
+        "NEs": {
+            "protein": [
+                "tumor beta 2-M"
+            ]
+        }
+    },
+    {
+        "TEXT": "Beta 2-M serum levels were determined by an enzyme-linked immunosorbent assay in samples from 22 of the above women .",
+        "NEs": {
+            "protein": [
+                "Beta 2-M"
+            ]
+        }
+    },
+    {
+        "TEXT": "Although some of the highest values had been obtained in women with larger ( T4 ) primary tumors , the authors failed to detect any statistical relationship between beta 2-M expression in the tumor with serum levels or between serum beta 2-M and the above histologic , laboratory , and clinical factors .",
+        "NEs": {
+            "protein": [
+                "beta 2-M",
+                "serum beta 2-M"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ Preliminary observation of level free-form E receptor levels in serum of normal childbearing-aged and pregnant women ]",
+        "NEs": {
+            "protein": [
+                "free-form E receptor"
+            ]
+        }
+    },
+    {
+        "TEXT": "In 137 cases of childbearing-aged and pregnant women , free form E receptor levels ( sE ) in serum were measured by ELISA .",
+        "NEs": {
+            "protein": [
+                "free form E receptor",
+                "sE"
+            ]
+        }
+    },
+    {
+        "TEXT": "The level of sE was significantly decreased during the first trimester , slightly higher in the second trimester , and recovered to normal in the third trimester .",
+        "NEs": {
+            "protein": [
+                "sE"
+            ]
+        }
+    },
+    {
+        "TEXT": "The level remained lower in 29 PIH women but appeared higher in overdue pregnancies as compared with the normal 3rd trimester range .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "The results indicate that there is a relationship between a change in T cell function and pregnancy .",
+        "NEs": {
+            "cell_type": [
+                "T cell"
+            ]
+        }
+    },
+    {
+        "TEXT": "Kappa B-specific DNA binding proteins : role in the regulation of human interleukin-2 gene expression .",
+        "NEs": {
+            "protein": [
+                "Kappa B-specific DNA binding proteins"
+            ],
+            "DNA": [
+                "human interleukin-2 gene"
+            ]
+        }
+    },
+    {
+        "TEXT": "Transcriptional activation of the human interleukin-2 ( IL-2 ) gene , like induction of the IL-2 receptor alpha ( IL-2R alpha ) gene and the type 1 human immunodeficiency virus ( HIV-1 ) , is shown to be modulated by a kappa B-like enhancer element .",
+        "NEs": {
+            "DNA": [
+                "human interleukin-2 ( IL-2 ) gene",
+                "IL-2 receptor alpha ( IL-2R alpha ) gene"
+            ],
+            "protein": [
+                "kappa B-like enhancer element"
+            ]
+        }
+    },
+    {
+        "TEXT": "Mutation of a kappa B core sequence identified in the IL-2 promoter ( -206 to -195 ) partially inhibits both mitogen- and HTLV-I Tax-mediated activation of this transcription unit and blocks the specific binding of two inducible cellular factors .",
+        "NEs": {
+            "DNA": [
+                "kappa B core sequence",
+                "IL-2 promoter"
+            ],
+            "protein": [
+                "transcription unit",
+                "inducible cellular factors"
+            ]
+        }
+    },
+    {
+        "TEXT": "These kappa B-specific proteins ( 80 to 90 and 50 to 55 kilodaltons ) similarly interact with the functional kappa B enhancer present in the IL-2R alpha promoter .",
+        "NEs": {
+            "protein": [
+                "kappa B-specific proteins",
+                "kappa B enhancer"
+            ],
+            "DNA": [
+                "IL-2R alpha promoter"
+            ]
+        }
+    },
+    {
+        "TEXT": "These data suggest that these kappa B-specific proteins have a role in the coordinate regulation of this growth factor-growth factor receptor gene system that controls T cell proliferation .",
+        "NEs": {
+            "protein": [
+                "kappa B-specific proteins"
+            ],
+            "cell_type": [
+                "T cell"
+            ]
+        }
+    },
+    {
+        "TEXT": "Novel region within the V kappa gene promoter is responsible for tissue and stage-specific expression of immunoglobulin genes in human lymphoid neoplasms .",
+        "NEs": {
+            "DNA": [
+                "V kappa gene promoter",
+                "immunoglobulin genes"
+            ],
+            "cell_type": [
+                "human lymphoid neoplasms"
+            ]
+        }
+    },
+    {
+        "TEXT": "Immunoglobulin gene-specific transacting factors have been shown to play a role in lymphoid tissue-specific expression of immunoglobulin genes .",
+        "NEs": {
+            "protein": [
+                "Immunoglobulin gene-specific transacting factors"
+            ],
+            "DNA": [
+                "immunoglobulin genes"
+            ]
+        }
+    },
+    {
+        "TEXT": "The role of these factors in B-cell differentiation and stage-specific expression of these genes is , however , not fully understood .",
+        "NEs": {
+            "cell_type": [
+                "B-cell"
+            ]
+        }
+    },
+    {
+        "TEXT": "We have used a model of human lymphoid neoplasia to address this question .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Different fragments of unrearranged human variable region of immunoglobulin kappa gene ( V kappa ) were used for cell-free in vitro transcription and DNA mobility shift assays .",
+        "NEs": {
+            "DNA": [
+                "unrearranged human variable region",
+                "immunoglobulin kappa gene",
+                "V kappa"
+            ]
+        }
+    },
+    {
+        "TEXT": "Previously described enhancement of in vitro transcription that was only seen with nuclear extracts derived from B-cell neoplasms corresponding to the late stages of B-cell differentiation was shown to be dependent on the actions of these factor ( s ) on the DNA region within the V kappa gene promoter .",
+        "NEs": {
+            "cell_type": [
+                "B-cell neoplasms",
+                "B-cell"
+            ],
+            "DNA": [
+                "V kappa gene promoter"
+            ]
+        }
+    },
+    {
+        "TEXT": "This region is located within the 920 bp fragment located 210 bp upstream from the coding region and this fragment represents a possible novel DNA region , which plays a role in the stage- and tissue-specific expression of immunoglobulin genes .",
+        "NEs": {
+            "DNA": [
+                "immunoglobulin genes"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ Determination of the sensitivity to glucocorticoids in vitro ]",
+        "NEs": {
+            "protein": [
+                "glucocorticoids"
+            ]
+        }
+    },
+    {
+        "TEXT": "A modified method for the determination of glucocorticoid receptors in human lymphocytes is suggested .",
+        "NEs": {
+            "protein": [
+                "glucocorticoid receptors"
+            ],
+            "cell_type": [
+                "human lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "The principal distinction of the method is standardization by the lymphocyte count in a sample ( 1 mln ) and the labeled hormone concentration .",
+        "NEs": {
+            "cell_type": [
+                "lymphocyte"
+            ],
+            "protein": [
+                "hormone"
+            ]
+        }
+    },
+    {
+        "TEXT": "The modification saves time and money , limits the range of the data variations , and makes use of a lesser volume of blood .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Examinations of 70 children aged 4 to 15 suffering from the nephrotic form of glomerulonephritis have made it possible to distinguish two groups of patients : with relatively high values of specific binding X = 6820.1 +/- 530.0 ( n = 30 , p = 0.95 , t = 2.04 ) , this corresponding to a clinical form of hormone -sensitive glomerulonephritis , and with relatively low values of specific binding X = 1815.2 +/- 302.8 ( n = 40 , p = 0.95 , t = 1.96 ) , that corresponds to hormone -resistant glomerulonephritis .",
+        "NEs": {
+            "protein": [
+                "hormone",
+                "hormone"
+            ]
+        }
+    },
+    {
+        "TEXT": "Dynamic studies have not shown any statistically significant changes in the specific binding values .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "These results permit regarding the specific binding value as a prognostic criterion in the assessment of corticosteroid therapy ; this allows a wide employment of the described method in practical nephrology .",
+        "NEs": {
+            "protein": [
+                "corticosteroid"
+            ]
+        }
+    },
+    {
+        "TEXT": "Octamer-binding proteins from B or HeLa cells stimulate transcription of the immunoglobulin heavy-chain promoter in vitro .",
+        "NEs": {
+            "protein": [
+                "Octamer-binding proteins"
+            ],
+            "cell_line": [
+                "B or HeLa cells"
+            ],
+            "DNA": [
+                "immunoglobulin heavy-chain promoter"
+            ]
+        }
+    },
+    {
+        "TEXT": "The B-cell -type specificity of the immunoglobulin ( Ig ) heavy-chain and light-chain promoters is mediated by an octanucleotide ( OCTA ) element , ATGCAAAT , that is also a functional component of other RNA polymerase II promoters , such as snRNA and histone H2B promoters .",
+        "NEs": {
+            "cell_type": [
+                "B-cell"
+            ],
+            "protein": [
+                "immunoglobulin",
+                "Ig"
+            ],
+            "DNA": [
+                "octanucleotide ( OCTA ) element",
+                "RNA polymerase II promoters"
+            ]
+        }
+    },
+    {
+        "TEXT": "Two nuclear proteins that bind specifically and with high affinity to the OCTA element have been identified .",
+        "NEs": {
+            "protein": [
+                "nuclear proteins"
+            ],
+            "DNA": [
+                "OCTA element"
+            ]
+        }
+    },
+    {
+        "TEXT": "NF-A1 is present in a variety of cell types , whereas the presence of NF-A2 is essentially confined to B cells , leading to the hypothesis that NF-A2 activates cell-type-specific transcription of the Ig promoter and NF-A1 mediates the other responses of the OCTA element .",
+        "NEs": {
+            "protein": [
+                "NF-A1",
+                "NF-A2",
+                "NF-A2",
+                "NF-A1"
+            ],
+            "cell_type": [
+                "B cells"
+            ],
+            "DNA": [
+                "Ig promoter",
+                "OCTA element"
+            ]
+        }
+    },
+    {
+        "TEXT": "Extracts of the B-cell line , BJA-B , contain high levels of NF-A2 and specifically transcribe Ig promoters .",
+        "NEs": {
+            "cell_line": [
+                "B-cell line",
+                "BJA-B"
+            ],
+            "protein": [
+                "NF-A2"
+            ],
+            "DNA": [
+                "Ig promoters"
+            ]
+        }
+    },
+    {
+        "TEXT": "In contrast , extracts from HeLa cells transcribed the Ig promoter poorly .",
+        "NEs": {
+            "cell_line": [
+                "HeLa cells"
+            ],
+            "DNA": [
+                "Ig promoter"
+            ]
+        }
+    },
+    {
+        "TEXT": "Surprisingly , addition of either affinity-enriched NF-A2 or NF-A1 to either a HeLa extract or a partially purified reaction system specifically stimulates the Ig promoter .",
+        "NEs": {
+            "DNA": [
+                "Ig promoter"
+            ]
+        }
+    },
+    {
+        "TEXT": "This suggests that the constitutive OCTA-binding factor NF-A1 can activate transcription of the Ig promoter and that B-cell -specific transcription of this promoter , at least in vitro , is partially due to a quantitative difference in the amount of OCTA-binding protein .",
+        "NEs": {
+            "protein": [
+                "OCTA-binding factor NF-A1",
+                "OCTA-binding protein"
+            ],
+            "DNA": [
+                "Ig promoter"
+            ],
+            "cell_type": [
+                "B-cell"
+            ]
+        }
+    },
+    {
+        "TEXT": "Because NF-A1 can stimulate Ig transcription , the inability of this factor to activate in vivo the Ig promoter to the same degree as the snRNA promoters probably reflects a difference in the context of the OCTA element in these two types of promoters .",
+        "NEs": {
+            "protein": [
+                "NF-A1",
+                "Ig"
+            ],
+            "DNA": [
+                "Ig promoter",
+                "snRNA promoters",
+                "OCTA element",
+                "promoters"
+            ]
+        }
+    },
+    {
+        "TEXT": "Identification of a putative regulator of early T cell activation genes .",
+        "NEs": {
+            "DNA": [
+                "early T cell activation genes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Molecules involved in the antigen receptor-dependent regulation of early T cell activation genes were investigated with the use of functional sequences of the T cell activation-specific enhancer of interleukin-2 ( IL-2 ) .",
+        "NEs": {
+            "DNA": [
+                "early T cell activation genes"
+            ],
+            "protein": [
+                "T cell activation-specific enhancer",
+                "interleukin-2",
+                "IL-2"
+            ]
+        }
+    },
+    {
+        "TEXT": "One of these sequences forms a protein complex , NFAT-1 , specifically with nuclear extracts of activated T cells .",
+        "NEs": {
+            "protein": [
+                "NFAT-1"
+            ],
+            "cell_type": [
+                "T cells"
+            ]
+        }
+    },
+    {
+        "TEXT": "This complex appeared 10 to 25 minutes before the activation of the IL-2 gene .",
+        "NEs": {
+            "DNA": [
+                "IL-2 gene"
+            ]
+        }
+    },
+    {
+        "TEXT": "Studies with inhibitors of protein synthesis indicated that the time of synthesis of the activator of the IL-2 gene in Jurkat T cells corresponds to the time of appearance of NFAT-1 .",
+        "NEs": {
+            "DNA": [
+                "IL-2 gene"
+            ],
+            "cell_line": [
+                "Jurkat T cells"
+            ],
+            "protein": [
+                "NFAT-1"
+            ]
+        }
+    },
+    {
+        "TEXT": "NFAT-1 , or a very similar protein , bound functional sequences of the long terminal repeat ( LTR ) of the human immunodeficiency virus type 1 ; the LTR of this virus is known to be stimulated during early T cell activation .",
+        "NEs": {
+            "protein": [
+                "NFAT-1"
+            ],
+            "DNA": [
+                "long terminal repeat",
+                "LTR",
+                "LTR"
+            ],
+            "cell_type": [
+                "T cell"
+            ]
+        }
+    },
+    {
+        "TEXT": "The binding site for this complex activated a linked promoter after transfection into antigen receptor-activated T cells but not other cell types .",
+        "NEs": {
+            "DNA": [
+                "binding site"
+            ],
+            "cell_type": [
+                "antigen receptor-activated T cells"
+            ]
+        }
+    },
+    {
+        "TEXT": "These characteristics suggest that NFAT-1 transmits signals initiated at the T cell antigen receptor .",
+        "NEs": {
+            "protein": [
+                "NFAT-1",
+                "T cell antigen receptor"
+            ]
+        }
+    },
+    {
+        "TEXT": "Characterization of thyroid hormone receptors in human IM-9 lymphocytes .",
+        "NEs": {
+            "protein": [
+                "thyroid hormone receptors"
+            ],
+            "cell_line": [
+                "human IM-9 lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Although putatively identified more than 10 years ago , thyroid hormone receptors in human tissues remain poorly characterized .",
+        "NEs": {
+            "protein": [
+                "thyroid hormone receptors"
+            ]
+        }
+    },
+    {
+        "TEXT": "As a first step towards understanding the mechanism of thyroid hormone action in man we have characterized T3 binding sites in nuclei of the human lymphoblastoid line , IM-9 cells .",
+        "NEs": {
+            "protein": [
+                "T3 binding sites"
+            ],
+            "cell_line": [
+                "human lymphoblastoid line",
+                "IM-9 cells"
+            ]
+        }
+    },
+    {
+        "TEXT": "In whole cell experiments at 37 degrees C , nuclear binding of [ 125I ] T3 was saturable ( Kd 34 +/- 6 pmol/l ) and of finite capacity ( approximately equal to 350 sites/cell ) .",
+        "NEs": {
+            "protein": [
+                "[ 125I ] T3"
+            ]
+        }
+    },
+    {
+        "TEXT": "The binding sites were extracted from a nuclear pellet by treatment with 0.4 mol/l KCl and sonication .",
+        "NEs": {
+            "protein": [
+                "binding sites"
+            ]
+        }
+    },
+    {
+        "TEXT": "Separation of bound from free [ 125I ] T3 in the extracts was achieved using the calcium phosphate matrix , hydroxyapatite at a concentration of 0.3 ml of a 150 g/l slurry .",
+        "NEs": {
+            "protein": [
+                "[ 125I ] T3"
+            ]
+        }
+    },
+    {
+        "TEXT": "Rectilinear Scatchard plots were obtained only when the hydroxyapatite was washed with a buffer containing 0.5 % Triton X-100 .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Under these conditions T3 binding sites in the nuclear extracts were present at a concentration of 22.4 +/- 8.6 fmol/mg protein and showed an affinity of ( Kd , room temperature ) 140 +/- 10 pmol/l .",
+        "NEs": {
+            "protein": [
+                "T3 binding sites"
+            ]
+        }
+    },
+    {
+        "TEXT": "The same assay system was used to determine the hierarchy of affinities for a range of natural and synthetic analogues .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Calling T3 100 , the order of potencies observed was : Triac , 500 ; 3 , 5-diiodo-3'-isopropylthyronine , 89 ; T4 , 32 ; 3 , 5-dimethyl-3'isopropylthyronine 2 ; 3 , 5-T2 , 0.7 , rT3 , 0.4 ; 3'5'-T2 , less than 0.01 .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "These results suggest that the T3 binding sites present in human IM-9 lymphocyte nuclei and extracts thereof are thyroid hormone receptors .",
+        "NEs": {
+            "protein": [
+                "T3 binding sites",
+                "thyroid hormone receptors"
+            ],
+            "cell_line": [
+                "human IM-9 lymphocyte"
+            ]
+        }
+    },
+    {
+        "TEXT": "These cells may be a useful tool to increase our understanding of human T3 receptors",
+        "NEs": {
+            "protein": [
+                "human T3"
+            ]
+        }
+    },
+    {
+        "TEXT": "Definition of T-cell specific DNA-binding factors that interact with a 3'-silencer in the CD4+ T-cell gene Rpt-1 .",
+        "NEs": {
+            "protein": [
+                "T-cell specific DNA-binding factors"
+            ],
+            "DNA": [
+                "3'-silencer",
+                "CD4+ T-cell gene Rpt-1"
+            ]
+        }
+    },
+    {
+        "TEXT": "Analysis of the region 3 ' to the CD4+ T-cell gene Rpt-1 ( encoding regulatory protein T-lymphocyte 1 ) led to the definition of a silencer element that inhibits heterologous gene expression in certain CD4+ T-cell lines but not in B-cell or non-lymphoid cell lines .",
+        "NEs": {
+            "DNA": [
+                "CD4+ T-cell gene Rpt-1",
+                "silencer element",
+                "heterologous gene"
+            ],
+            "protein": [
+                "T-lymphocyte 1"
+            ],
+            "cell_type": [
+                "CD4+ T-cell lines",
+                "B-cell",
+                "non-lymphoid cell lines"
+            ]
+        }
+    },
+    {
+        "TEXT": "Functional silencer activity in vivo was associated with the presence of a specific silencer-DNA-protein complex in electrophoretic mobility shift assays with T-cell extracts .",
+        "NEs": {
+            "DNA": [
+                "silencer"
+            ],
+            "protein": [
+                "silencer-DNA-protein complex"
+            ],
+            "cell_type": [
+                "T-cell"
+            ]
+        }
+    },
+    {
+        "TEXT": "Formation of this complex was selectively inhibited by the region in HIV-1 containing a silencer element .",
+        "NEs": {
+            "DNA": [
+                "HIV-1",
+                "silencer element"
+            ]
+        }
+    },
+    {
+        "TEXT": "We discuss the possibility that DNA-binding factors may coregulate HIV-1 and Rpt-1 gene expression through a common transcriptional silencer element .",
+        "NEs": {
+            "protein": [
+                "DNA-binding factors"
+            ],
+            "DNA": [
+                "transcriptional silencer element"
+            ]
+        }
+    },
+    {
+        "TEXT": "Congenital immunodeficiencies associated with absence of HLA class II antigens on lymphocytes result from distinct mutations in trans-acting factors .",
+        "NEs": {
+            "protein": [
+                "HLA class II antigens",
+                "trans-acting factors"
+            ],
+            "cell_type": [
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Coordinate regulation of HLA class II gene expression during development and coinduction of class II genes by soluble factors suggests that common trans-acting factor ( s ) control expression of these genes .",
+        "NEs": {
+            "DNA": [
+                "HLA class II gene",
+                "class II genes"
+            ],
+            "protein": [
+                "soluble factors",
+                "trans-acting factor"
+            ]
+        }
+    },
+    {
+        "TEXT": "In B-lymphoblastoid cell lines derived from two independent class II-deficient bare lymphocyte syndrome patients , we observed a drastic decrease in transcription rates of the class II genes .",
+        "NEs": {
+            "cell_type": [
+                "B-lymphoblastoid cell lines"
+            ],
+            "DNA": [
+                "class II genes"
+            ]
+        }
+    },
+    {
+        "TEXT": "When these cell lines are fused , class II genes are reexpressed , indicating that immunodeficiencies in bare lymphocyte syndrome patients are the result of two distinct mutations .",
+        "NEs": {
+            "DNA": [
+                "class II genes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Further studies show that genes governing the expression of class II antigens fall into at least three complementation groups ; two of these were previously unidentified in mutant cell lines generated in vitro .",
+        "NEs": {
+            "protein": [
+                "class II antigens"
+            ],
+            "cell_line": [
+                "mutant cell lines"
+            ]
+        }
+    },
+    {
+        "TEXT": "In addition , we report the identification of two discrete complexes , NFX1.1 and NFX1.2 , that bind to the DRA X consensus element .",
+        "NEs": {
+            "protein": [
+                "NFX1.1",
+                "NFX1.2"
+            ],
+            "DNA": [
+                "DRA X consensus element"
+            ]
+        }
+    },
+    {
+        "TEXT": "Though the mutation in at least one mutant line generated in vitro ( RJ2.2.5 ) affects products functioning via interaction with the X box , clear alterations in either NFX1.1 or NFX1.2 are not found in any of the mutant cell lines .",
+        "NEs": {
+            "cell_line": [
+                "mutant line",
+                "RJ2.2.5",
+                "mutant cell lines"
+            ],
+            "DNA": [
+                "X box"
+            ],
+            "protein": [
+                "NFX1.1",
+                "NFX1.2"
+            ]
+        }
+    },
+    {
+        "TEXT": "In vivo responsiveness to glucocorticoid correlated with glucocorticoid receptor content in peripheral blood leukocytes in normal humans .",
+        "NEs": {
+            "protein": [
+                "glucocorticoid receptor"
+            ],
+            "cell_type": [
+                "peripheral blood leukocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Dexamethasone loading tests ( 0.1 mg dexamethasone/kg , iv ) were performed in 18 normal males to evaluate the individual responsiveness to glucocorticoid .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "There were inter-individual differences in increase in peripheral blood polymorphonuclear leukocyte count , decrease in peripheral blood lymphocyte count , and increase in plasma free fatty acids levels after dexamethasone injection .",
+        "NEs": {
+            "cell_type": [
+                "peripheral blood polymorphonuclear leukocyte",
+                "peripheral blood lymphocyte"
+            ]
+        }
+    },
+    {
+        "TEXT": "In addition , there was a significant correlation between the maximum increase in polymorphonuclear leukocytes and the maximum decrease in lymphocytes ( r = 0.7514 , p less than 0.0003 ) .",
+        "NEs": {
+            "cell_type": [
+                "polymorphonuclear leukocytes",
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Simultaneous measurements of glucocorticoid receptor content by whole-cell assay revealed that glucocorticoid receptor content in polymorphonuclear leukocytes linearly correlated with that in the corresponding lymphocytes ( r = 0.9482 , p less than 0.0001 ) .",
+        "NEs": {
+            "protein": [
+                "glucocorticoid receptor",
+                "glucocorticoid receptor"
+            ],
+            "cell_type": [
+                "polymorphonuclear leukocytes",
+                "lymphocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "There were also significant correlations between the maximum increase in polymorphonuclear leukocytes and glucocorticoid receptor content in polymorphonuclear leukocytes ( r = 0.7239 , p less than 0.0007 ) , and between the maximum decrease in lymphocytes and glucocorticoid receptor content in lymphocytes ( r = 0.7703 , p less than 0.0002 ) .",
+        "NEs": {
+            "cell_type": [
+                "polymorphonuclear leukocytes",
+                "polymorphonuclear leukocytes",
+                "lymphocytes",
+                "lymphocytes"
+            ],
+            "protein": [
+                "glucocorticoid receptor",
+                "glucocorticoid receptor"
+            ]
+        }
+    },
+    {
+        "TEXT": "These results suggest that individual differences are preserved both in glucocorticoid responsiveness and in glucocorticoid receptor content in peripheral blood leukocytes in normal humans .",
+        "NEs": {
+            "protein": [
+                "glucocorticoid receptor"
+            ],
+            "cell_type": [
+                "peripheral blood leukocytes"
+            ]
+        }
+    },
+    {
+        "TEXT": "Estradiol receptors in the cytosol of peripheral blood mononuclear cells in hepatitis B virus carriers treated with interferon-alpha .",
+        "NEs": {
+            "cell_type": [
+                "peripheral blood mononuclear cells"
+            ],
+            "protein": [
+                "interferon-alpha"
+            ]
+        }
+    },
+    {
+        "TEXT": "Estradiol receptors in the cytosol of peripheral blood mononuclear cells and the effects of interferon-alpha ( IFN-alpha ) on estradiol receptors were studied in asymptomatic hepatitis B virus ( HBV ) carriers , patients with chronic hepatitis B and normal controls .",
+        "NEs": {
+            "protein": [
+                "Estradiol receptors",
+                "interferon-alpha",
+                "IFN-alpha",
+                "estradiol receptors"
+            ],
+            "cell_type": [
+                "peripheral blood mononuclear cells"
+            ]
+        }
+    },
+    {
+        "TEXT": "The level of estradiol receptors in the cytosol of mononuclear cells was significantly lower in asymptomatic HBV carriers and patients with chronic hepatitis B , compared to normal controls .",
+        "NEs": {
+            "protein": [
+                "estradiol receptors"
+            ],
+            "cell_type": [
+                "mononuclear cells"
+            ]
+        }
+    },
+    {
+        "TEXT": "This low level of cytosol estradiol receptors in patients with chronic hepatitis B was increased by the administration of IFN-alpha .",
+        "NEs": {
+            "protein": [
+                "estradiol receptors",
+                "IFN-alpha"
+            ]
+        }
+    },
+    {
+        "TEXT": "In addition , when peripheral blood mononuclear cells from patients with chronic hepatitis B were incubated with IFN-alpha in vitro , the level of cytosol estradiol receptors also increased by increasing the concentration of IFN-alpha .",
+        "NEs": {
+            "cell_type": [
+                "peripheral blood mononuclear cells"
+            ],
+            "protein": [
+                "IFN-alpha",
+                "estradiol receptors",
+                "IFN-alpha"
+            ]
+        }
+    },
+    {
+        "TEXT": "We previously reported that the response of mononuclear cells to estrogen is impaired in HBV carriers , and our present results suggested that this may be due to the low level of estradiol receptors in the cytosol of mononuclear cells .",
+        "NEs": {
+            "cell_type": [
+                "mononuclear cells",
+                "mononuclear cells"
+            ],
+            "protein": [
+                "estradiol receptors"
+            ]
+        }
+    },
+    {
+        "TEXT": "Association of increased lytic effector cell function with high estrogen receptor levels in tumor-bearing patients with breast cancer .",
+        "NEs": {
+            "protein": [
+                "estrogen receptor"
+            ]
+        }
+    }
+]

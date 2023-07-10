@@ -1,0 +1,69 @@
+[
+    {
+        "TEXT": "RT @DamnTeenQuotes : I remember when i was your age , spencer from iCarly was Crazy Steve , Carly was Megan and Josh was fat . #damnteenquotes",
+        "NEs": {
+            "person": [
+                "spencer",
+                "Crazy Steve",
+                "Carly",
+                "Megan",
+                "Josh"
+            ],
+            "creative_work": [
+                "iCarly"
+            ]
+        }
+    },
+    {
+        "TEXT": "There 's a lot of people showing off their iPhones on facebook today , so &lt; so is at such a place , it 's really not that interesting ;o )",
+        "NEs": {
+            "product": [
+                "iPhones"
+            ],
+            "corporation": [
+                "facebook"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @claywsyx6 : THE FOOTBALL FEVER : Ohio head coach Frank Solich says Ohio State knows they have a special team and season underway . Long ...",
+        "NEs": {
+            "location": [
+                "Ohio"
+            ],
+            "person": [
+                "Frank Solich"
+            ],
+            "group": [
+                "Ohio State"
+            ]
+        }
+    },
+    {
+        "TEXT": "UPDATE 1-Cricket-Gul takes six wickets as Pakistan beat England : LONDON , Sept 17 ( Reuters ) - Umar Gul took ... http://bit.ly/ckNyMG #Cricket",
+        "NEs": {
+            "location": [
+                "Pakistan",
+                "England",
+                "LONDON"
+            ],
+            "corporation": [
+                "Reuters"
+            ],
+            "person": [
+                "Umar Gul"
+            ]
+        }
+    },
+    {
+        "TEXT": "Good prospects for dabigatran on Monday . RT @DrJennyK : FDA Suggests #Afib Drug Okay Even Before Vote http://bit.ly/dpOphU #FDACV",
+        "NEs": {
+            "product": [
+                "dabigatran"
+            ],
+            "group": [
+                "FDA"
+            ]
+        }
+    }
+]

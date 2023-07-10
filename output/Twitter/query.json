@@ -1,0 +1,908 @@
+[
+    {
+        "TEXT": "RT @ThePatriot143 : TIMELINE SHOWS HOW CLINTONS TOOK $ 1 . 8 MILLION FROM KEYSTONE PIPELINE INVESTORS http://t.co/17CGxAS18d #ClintonCash http:…",
+        "NEs": {
+            "PER": [
+                "CLINTONS"
+            ],
+            "OTHER": [
+                "KEYSTONE PIPELINE"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @Gabriele _ Corno : Interplanetary . . . spring by Tatiana Averin #inspiration #infinity #CGE http://t.co/Yg1g6boFEq",
+        "NEs": {
+            "PER": [
+                "Tatiana Averin"
+            ],
+            "OTHER": [
+                "#CGE"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @BBCWorld : Beer hall bomb : The man who missed killing Hitler by 13 minutes http://t.co/27bw8mTmCh http://t.co/Frsz46VdYa",
+        "NEs": {
+            "PER": [
+                "Hitler"
+            ]
+        }
+    },
+    {
+        "TEXT": "@katie _ hannen @emilysitz ! look ! ! ! Gina got a 5lb Hershey bar in her driveway too ! look ! ! ! Gina got a 5lb Hershey bar in her driveway too ! http://t.co/Mz13v6iPX5",
+        "NEs": {
+            "PER": [
+                "Gina",
+                "Gina"
+            ],
+            "OTHER": [
+                "5lb Hershey bar",
+                "5lb Hershey bar"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @IamAkademiks : J . Cole brought out Drake and he performed \" Back To Back \" in Fayetteville , NC . http://t.co/OeBnJXilPd",
+        "NEs": {
+            "PER": [
+                "Drake"
+            ],
+            "LOC": [
+                "Fayetteville",
+                "NC"
+            ]
+        }
+    },
+    {
+        "TEXT": "What Bears game ? Chicago ' s ready for Hawkey . 20 , 000 fans lining Madison St for #Blackhawks scrimmage http://t.co/vEAEq9CS8q",
+        "NEs": {
+            "ORG": [
+                "Bears",
+                "#Blackhawks"
+            ],
+            "LOC": [
+                "Chicago",
+                "Madison St"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @PresHodge : We are experiencing a significant fire in the attic of one wing of Swing Hall . Everyone is safe . http://t.co/jD2vb0cU1f",
+        "NEs": {
+            "LOC": [
+                "Swing Hall"
+            ]
+        }
+    },
+    {
+        "TEXT": "The new EMC VNXe3200 Hybrid Storage : Low-cost bundle or build your own in the EMC Store . http://t.co/LqBEB7Rxw7 http://t.co/ii7XgMGDo6",
+        "NEs": {
+            "OTHER": [
+                "EMC VNXe3200 Hybrid Storage",
+                "EMC"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @luxury _ _ travel : 5 must-sees in Ayrshire and Arran , Scotland http://t.co/pUtCEnfXUe http://t.co/4Xzd73yO54",
+        "NEs": {
+            "LOC": [
+                "Ayrshire",
+                "Arran",
+                "Scotland"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @samkalidi : Isis and Kim Davis have things in common . http://t.co/vD0WOZRy6R",
+        "NEs": {
+            "PER": [
+                "Isis",
+                "Kim Davis"
+            ]
+        }
+    },
+    {
+        "TEXT": "Building a New Chicago http://t.co/dTcvqP7Wd4",
+        "NEs": {
+            "LOC": [
+                "New Chicago"
+            ]
+        }
+    },
+    {
+        "TEXT": "@ESPN _ Colin : The 16th at The Vintage in Palm Springs . http://t.co/ZkcCeAcv23 Thx for the pic, what'd u shoot? #livingvicariously",
+        "NEs": {
+            "OTHER": [
+                "The",
+                "The Vintage",
+                "the"
+            ],
+            "LOC": [
+                "Palm Springs"
+            ]
+        }
+    },
+    {
+        "TEXT": "Quote for the day : \" My best friend is the one who brings out the best in me . \" - Henry Ford . \" Like \" this photo i . . . http://t.co/YDoYtQEKgO",
+        "NEs": {
+            "PER": [
+                "Henry Ford"
+            ]
+        }
+    },
+    {
+        "TEXT": "Millions Supporters across the world cant stand by Bapuji if the case had even a bit of reality . #BogusCaseOnBapuji http://t.co/4TdlTjps30",
+        "NEs": {
+            "PER": [
+                "Bapuji"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @laura _ jepson : The queue for water at IDP camp for 20 , 000 people in Malakal #SouthSudan http://t.co/RBsjHoe2eB via @IMC_UK",
+        "NEs": {
+            "ORG": [
+                "IDP"
+            ],
+            "LOC": [
+                "Malakal"
+            ]
+        }
+    },
+    {
+        "TEXT": "@Phillies splitting squad b/w games in Tampa &amp ; Clearwater today . I bought tix to Clearwater &amp ; got lucky : http://t.co/UzMIfb8uaa",
+        "NEs": {
+            "LOC": [
+                "Tampa",
+                "Clearwater",
+                "Clearwater"
+            ]
+        }
+    },
+    {
+        "TEXT": "See you in the morning sir Andrae http://t.co/h4Hu1JzhIJ",
+        "NEs": {
+            "PER": [
+                "Andrae"
+            ]
+        }
+    },
+    {
+        "TEXT": "What a real blessing to celebrate Mass at the Notre Dame Basilica http://t.co/tSm9B8LpX6",
+        "NEs": {
+            "LOC": [
+                "Notre Dame"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @mjesusgz : The lady in red , Indonesia http://t.co/dj9t7Kcvve",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Discover how Yamaha Motor is setting themselves apart with a winning cloud strategy http://t.co/EwalAd7XlF http://t.co/fPlrie8okM",
+        "NEs": {
+            "ORG": [
+                "Yamaha Motor"
+            ]
+        }
+    },
+    {
+        "TEXT": "@ByJoeFleming : Stars celebrate 100 years of Wilson ( GETTY ) http://t.co/Lj0Obtezw9 http://t.co/IAl7vTyUAU Sandwiched Simona!",
+        "NEs": {
+            "ORG": [
+                "Wilson"
+            ]
+        }
+    },
+    {
+        "TEXT": "#Blackhawks Rozsival turns #Stars Travis Moen sideways in the second period http://t.co/kdg7xcJNy1",
+        "NEs": {
+            "ORG": [
+                "#Blackhawks",
+                "#Stars"
+            ],
+            "PER": [
+                "Rozsival",
+                "Travis Moen"
+            ]
+        }
+    },
+    {
+        "TEXT": "@sprintcare - Shame on you #sprint for providing the worst service in F1283 http://t.co/3UqE6oSYN5",
+        "NEs": {}
+    },
+    {
+        "TEXT": "RT @TheFix : Jimmy Fallon the pros and cons of watching the GOP debate . http://t.co/J12Z3fIfYC http://t.co/61RyQGUp4H",
+        "NEs": {
+            "ORG": [
+                "GOP"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @NewsCoverUp : #MH17 report not released as it proves Russia not responsible for crash - @PCraigRoberts http://t.co/CsKDFulFLa",
+        "NEs": {
+            "OTHER": [
+                "#MH17"
+            ],
+            "LOC": [
+                "Russia"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @HistoryInPix : Samurai of the Chosyu clan , 1860s . Photograph by Felice Beato . http://t.co/e0k7OrnZp5",
+        "NEs": {
+            "PER": [
+                "Samurai",
+                "Felice Beato"
+            ],
+            "ORG": [
+                "Chosyu clan"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @TripLee : Albert Pujols came through tonight in Long Beach http://t.co/9roGUDYTfn",
+        "NEs": {
+            "PER": [
+                "Albert Pujols"
+            ],
+            "LOC": [
+                "Long Beach"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @thenation : New essay by Toni Morrison : No Place for Self-Pity , No Room for Fear http://t.co/3HMvRqJSB9 http://t.co/RWKIZFRSgV",
+        "NEs": {
+            "PER": [
+                "Toni Morrison"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @cardiff _ blues : A few iconic images of Dafydd Hewitt over the last decade . . . #thanksforthememoriesdaf #blueslegend http://t.co/0yjAGDobNP",
+        "NEs": {
+            "PER": [
+                "Dafydd Hewitt"
+            ]
+        }
+    },
+    {
+        "TEXT": "All hail the thin bezels ! Oppo R7 . http://t.co/z7GegsmmOo",
+        "NEs": {
+            "OTHER": [
+                "Oppo R7"
+            ]
+        }
+    },
+    {
+        "TEXT": "Rabin Square , Tel Aviv http://t.co/XXggPjEOuq",
+        "NEs": {
+            "LOC": [
+                "Rabin Square",
+                "Tel Aviv"
+            ]
+        }
+    },
+    {
+        "TEXT": "ONLY BELIEVE the dynamic gospel album from Elder Arthur R . Johnson . Available at select outlets : http://t.co/0WzcfKMSNn",
+        "NEs": {}
+    },
+    {
+        "TEXT": "RT @NRO : Is This Seriously a Line from a Speech by the President of the United States ? http://t.co/bGOb6g0OHC http://t.co/lpYTiNZ72k",
+        "NEs": {
+            "LOC": [
+                "United States"
+            ]
+        }
+    },
+    {
+        "TEXT": "How to Create Fiori Apps on the HANA Cloud Platform : http://t.co/D95hiGMC55 http://t.co/S0Q0RqbR9J",
+        "NEs": {
+            "OTHER": [
+                "Fiori Apps",
+                "HANA Cloud Platform"
+            ]
+        }
+    },
+    {
+        "TEXT": "PRESS RELEASE : President Opens Mahinda Rajapaksa Vocational #Training Centre in #Palestine http://t.co/yRvPIuKOBE http://t.co/00vlXfDeDU",
+        "NEs": {
+            "ORG": [
+                "Mahinda Rajapaksa Vocational #Training Centre"
+            ],
+            "LOC": [
+                "#Palestine"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @TheScriptLab : Charlie Kaufman on Writing Your Own Screenplay http://t.co/Smuw3as6BD #Screenwriting #WritingTips http://t.co/L3dmNnd8MU",
+        "NEs": {
+            "PER": [
+                "Charlie Kaufman"
+            ]
+        }
+    },
+    {
+        "TEXT": "Governor McCrory presents NC flag to Ruger CEO Mike Fifer at jobs announcement in Mayodan . http://t.co/aUMIEg3TQo",
+        "NEs": {
+            "PER": [
+                "McCrory",
+                "Mike Fifer"
+            ],
+            "LOC": [
+                "NC",
+                "Mayodan"
+            ],
+            "ORG": [
+                "Ruger"
+            ]
+        }
+    },
+    {
+        "TEXT": "Top 10 luxury spots to top up your tan in Dubai http://t.co/MASj2clTsL http://t.co/932juLCnql",
+        "NEs": {
+            "LOC": [
+                "Dubai"
+            ]
+        }
+    },
+    {
+        "TEXT": "Where it all begins ! An exhilarating visit to source of Arno River in Alto #Casentino http://t.co/EdZIWjVxGc #tuscany http://t.co/HnYA3avJUj",
+        "NEs": {
+            "LOC": [
+                "Arno River",
+                "#Casentino"
+            ]
+        }
+    },
+    {
+        "TEXT": "@NDCS _ UK Pls RT a poster about the next Leadership Course for Young Deaf People on 11th/12th July 2015 thanks http://t.co/vLR4CdWEtS",
+        "NEs": {
+            "OTHER": [
+                "Leadership Course"
+            ]
+        }
+    },
+    {
+        "TEXT": "Brandon Saad skates off as the #TBLightning celebrate . On to Chicago and Game 3 : http://t.co/15beLFobb4 http://t.co/Q2KRr5apcV",
+        "NEs": {
+            "PER": [
+                "Brandon Saad"
+            ],
+            "LOC": [
+                "Chicago"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @hayden _ rummer : Thanks to the WVU seniors @Gbrowne14 @JuwanStaten3 @KevinNoreen34 http://t.co/MYI2mVhEHB",
+        "NEs": {
+            "ORG": [
+                "WVU"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @PearlJam : RT to wish Eddie Vedder a happy birthday today ! http://t.co/emTGIZsZQb",
+        "NEs": {
+            "PER": [
+                "Eddie Vedder"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @Pac12Networks : The quest for national title #9 begins tonight for @UA _ Softball in Tucson ' s friendly confines . http://t.co/HwXalxaCE6 ht…",
+        "NEs": {
+            "ORG": [
+                "Tucson"
+            ]
+        }
+    },
+    {
+        "TEXT": "Big B . . with Zakwan Chaudhary in Holland . . . . outing http://t.co/ngEiPOJCtC",
+        "NEs": {
+            "PER": [
+                "Big B",
+                "Zakwan Chaudhary"
+            ],
+            "LOC": [
+                "Holland"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @conserv _ tribune : Smug Reporter Thinks He Has Rick Perry Trapped… Then Rick Slaps Him Down With 1… http://t.co/KqdWaszqgo #tcot http://t…",
+        "NEs": {
+            "PER": [
+                "Rick Perry",
+                "Rick"
+            ]
+        }
+    },
+    {
+        "TEXT": "Hi I am Riley http://t.co/cief5KS1gb",
+        "NEs": {
+            "OTHER": [
+                "Riley"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @AhmdSL : The Beauty Of Austria Lands #Amazing #Landscape #Beautiful #nature #Austria #cloud @AhmdSL http://t.co/B0s1E00ZNK",
+        "NEs": {
+            "LOC": [
+                "Austria",
+                "#Austria"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @FloydMayweather : I will be fighting Marcos Maidana May 3rd on Pay-per-view Showtime/CBS http://t.co/mtj7H8WVxu http://t.co/Rc2N87zcjP",
+        "NEs": {}
+    },
+    {
+        "TEXT": "RT @BadBlackGirls : Michelle Obama http://t.co/8jTTlZI2uh",
+        "NEs": {
+            "PER": [
+                "Michelle Obama"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @barcastuff : Picture : Messi at the Olympiastadion in Berlin yesterday #fcblive [ via @blaugrana _ 86 ] http://t.co/EDEx86VGI5",
+        "NEs": {
+            "PER": [
+                "Messi"
+            ],
+            "LOC": [
+                "Berlin"
+            ]
+        }
+    },
+    {
+        "TEXT": "Remember , many liberals celebrating the #SSM ruling also support Islam . Islamic law considers Homosexuality a crime . http://t.co/oPGd8AezrH",
+        "NEs": {
+            "ORG": [
+                "#SSM"
+            ],
+            "OTHER": [
+                "Islam"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @ComplexMag : Taylor Swift just helped Kendrick Lamar land his first No . 1 song . http://t.co/eCO2f8PbdV http://t.co/bR289QKuLn",
+        "NEs": {
+            "PER": [
+                "Taylor Swift",
+                "Kendrick Lamar"
+            ]
+        }
+    },
+    {
+        "TEXT": "Got a nice gift from Canada for my birthday ! http://t.co/rHFy2cLaTw",
+        "NEs": {
+            "LOC": [
+                "Canada"
+            ]
+        }
+    },
+    {
+        "TEXT": "Patrick Kane shows off the Stanley Cup . #BlackhawksRally photos : http://t.co/6UM9M3x1K4 http://t.co/U9RnjT57pe",
+        "NEs": {
+            "PER": [
+                "Patrick Kane"
+            ],
+            "OTHER": [
+                "Stanley Cup"
+            ]
+        }
+    },
+    {
+        "TEXT": "Brad Marchand . http://t.co/9BtsU9RqE3",
+        "NEs": {
+            "PER": [
+                "Brad Marchand"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @TheLilKimNews : Lil Kim is set to be perform at Kroger during the MTV VMAs ! http://t.co/fb2UFNZPfG",
+        "NEs": {
+            "PER": [
+                "Lil Kim"
+            ],
+            "ORG": [
+                "Kroger"
+            ],
+            "OTHER": [
+                "MTV VMAs"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @scotteells : More amazing work from @pkmuller @postphoto @washingtonpost In Congo . http://t.co/eqp5k81Kmw via @photojournalism http://t.…",
+        "NEs": {
+            "LOC": [
+                "Congo"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @Forbes : Texas is the best state to make a living in this year : http://t.co/AXdRN0THrn http://t.co/v1cdiD4Tr9",
+        "NEs": {
+            "LOC": [
+                "Texas"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @SamSmithNews : Sam tonight , greeting fans after his show in Brussels ! http://t.co/pAgjvr3qu2",
+        "NEs": {
+            "LOC": [
+                "Brussels"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @Careless _ Tyrese : Wayne daughter Regina was like \" yassss we the best \" http://t.co/V2NpkktKX8",
+        "NEs": {
+            "PER": [
+                "Wayne",
+                "Regina"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @RobertFoleyWine : #ButtsFire at 16 : 00 viewed from Howell Mountain . http://t.co/Rq9APtxDX6",
+        "NEs": {
+            "LOC": [
+                "Howell Mountain"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @Interior : It ' s still morning across the U . S . Let ' s share a beautiful Lake Havasu sunrise ! http://t.co/fwkAJHkC1M http://t.co/vLatnFhTYs",
+        "NEs": {
+            "LOC": [
+                "Lake Havasu"
+            ]
+        }
+    },
+    {
+        "TEXT": "Playing with #lua with Corona SDK for fun ( and no profit ) . #screenshotsaturday http://t.co/FpoB85iks3",
+        "NEs": {
+            "OTHER": [
+                "Corona SDK"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @VincoSport : What was Don Valley Stadium . . . http://t.co/cehK6fbuxu",
+        "NEs": {
+            "LOC": [
+                "Don Valley Stadium"
+            ]
+        }
+    },
+    {
+        "TEXT": "Davonta Burdine , 22 photographs the bloodstain in an alley where his brother was killed today : http://t.co/UxAZ2GaawY http://t.co/RWiFeru7Of",
+        "NEs": {
+            "PER": [
+                "Davonta Burdine"
+            ]
+        }
+    },
+    {
+        "TEXT": "#2011inPictures amazing concert at #Jerash roman ruins #Jordan http://t.co/vPGIfjM6",
+        "NEs": {
+            "LOC": [
+                "#Jerash"
+            ]
+        }
+    },
+    {
+        "TEXT": "Hanging with Jason visiting the Wounded Warriors at Walter Reed ! Love my heroes ! http://t.co/h0P3BBxpeK",
+        "NEs": {
+            "PER": [
+                "Jason"
+            ],
+            "LOC": [
+                "Walter Reed"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @oldpicsarchive : Michael Jackson and Freddie Mercury . 1980 http://t.co/2xZx05svLb",
+        "NEs": {
+            "PER": [
+                "Michael Jackson",
+                "Freddie Mercury"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @elisefoley : This photo of Howard University students is amazing . http://t.co/5l0eKBCKpu http://t.co/LzcKmyuFcd",
+        "NEs": {
+            "ORG": [
+                "Howard University"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @PineStableArt : Eric Lamaze on Coco Bongo #PanAm2015 Jumping Semis July 21 #horses #equestrian http://t.co/CLB7ltdq77",
+        "NEs": {
+            "PER": [
+                "Eric Lamaze"
+            ],
+            "LOC": [
+                "Coco Bongo"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @FastCoDesign : Here ' s why NBA players are protesting the killing of #EricGarner with Comic Sans : http://t.co/JKCGdL0piQ http://t.co/7xfw…",
+        "NEs": {
+            "OTHER": [
+                "NBA",
+                "Comic Sans"
+            ]
+        }
+    },
+    {
+        "TEXT": "@catbossfishboss Handsome Rob after a fish dinner http://t.co/01ExuABWil",
+        "NEs": {
+            "PER": [
+                "Rob"
+            ]
+        }
+    },
+    {
+        "TEXT": "Queue on social Kitchen for poor and immigrants in central Athens today http://t.co/lPBlGiSWix",
+        "NEs": {
+            "LOC": [
+                "Athens"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @girlposts : forever my favorite Jonas brother http://t.co/LXrb9iF2ko",
+        "NEs": {
+            "ORG": [
+                "Jonas brother"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @craigchek : #Photography Balconies , Istanbul , Turkey http://t.co/qs2iDBRQRF",
+        "NEs": {
+            "LOC": [
+                "Istanbul",
+                "Turkey"
+            ]
+        }
+    },
+    {
+        "TEXT": "@hunterschwarz : The best part of James Franco ' s Instagram is this brave commenter . http://t.co/QePpqpI3Si",
+        "NEs": {
+            "PER": [
+                "James Franco"
+            ]
+        }
+    },
+    {
+        "TEXT": "@rtv6 : Mega Church pastor Creflo Dollar is asking congregants for donations for a $ 67M private jet - http://t.co/wsoVYb1fkO@pastor_thompson",
+        "NEs": {
+            "LOC": [
+                "Mega Church"
+            ],
+            "PER": [
+                "Creflo Dollar"
+            ]
+        }
+    },
+    {
+        "TEXT": "Last sunset in Santorini http://t.co/0T5XGH3ySr",
+        "NEs": {
+            "LOC": [
+                "Santorini"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @WSJ : Where is Silicon Alley ? Some tech companies that recently signed leases in Manhattan : http://t.co/HlYXp31vpS http://t.co/gKin5k8sqN",
+        "NEs": {
+            "LOC": [
+                "Silicon Alley",
+                "Manhattan"
+            ]
+        }
+    },
+    {
+        "TEXT": "I love this quote . Robin Sharma credited for photo . My library is growing #librarygirl http://t.co/Fi1Syj3izO",
+        "NEs": {}
+    },
+    {
+        "TEXT": "RT @zaibatsu : \" North Miami police use faces of black men as targets \" http://t.co/5jDjwTMA1S #p2 http://t.co/FFpadLirsr",
+        "NEs": {
+            "LOC": [
+                "North Miami"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @bestside Im not a big Drake fan . But yet I am a fan of this . http://t.co/Vz8k1sgu",
+        "NEs": {
+            "PER": [
+                "Drake"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @onedirection : Thank you Andrea for this wonderful creation ! http://t.co/QPGobghWHg http://t.co/hzkzGJJfoD",
+        "NEs": {
+            "PER": [
+                "Andrea"
+            ]
+        }
+    },
+    {
+        "TEXT": "#Colombia-Notaries ready contract for formalization of gay marriages if Congress does not act http://t.co/JFlqUFXfLk http://t.co/G0PNekz8MI",
+        "NEs": {
+            "ORG": [
+                "Congress"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @BBCAfrica : Eid al-Fitr celebrated across Africa , in pictures http://t.co/OWjs2EV8vW http://t.co/kBlqXCHHAy",
+        "NEs": {
+            "LOC": [
+                "Africa"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @UNDPEurasia : Regional cooperation key to security in Southeastern Europe . Read why : http://t.co/XEb2iTPyCW http://t.co/wvOF5Ot9KK",
+        "NEs": {
+            "LOC": [
+                "Southeastern Europe"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @MOVIEMEMORlES : Disney finally got it right . http://t.co/LBucLY41Tt",
+        "NEs": {
+            "ORG": [
+                "Disney"
+            ]
+        }
+    },
+    {
+        "TEXT": "Lots of green and other colors too at Hawaii Tropical Botanical Gardens . @gohawaii #Lethawaiihappen http://t.co/vEFYiMJ5LZ",
+        "NEs": {
+            "LOC": [
+                "Hawaii Tropical Botanical Gardens"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @500px : Rainbow over Victoria Falls in Zimbabwe by @EverywhereTrip : https : //t . co/NfrtT5Us1F #TravelTuesday http://t.co/CpctFpEg6Z",
+        "NEs": {
+            "LOC": [
+                "Victoria Falls",
+                "Zimbabwe"
+            ]
+        }
+    },
+    {
+        "TEXT": "#Dolphins Charles Clay makes a touchdown catch as #Bears Shea McClellin falls down . Photos : http://t.co/bJYblFHMfs http://t.co/3O4uiLk6IF",
+        "NEs": {
+            "ORG": [
+                "#Dolphins",
+                "#Bears"
+            ],
+            "PER": [
+                "Charles Clay",
+                "Shea McClellin"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @ClassicPixs : The original cast of Star Wars http://t.co/raWsQ8Hvct",
+        "NEs": {
+            "OTHER": [
+                "Star Wars"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @NLNavyNews : #OTD 1939 Minesweeper HNLMS Willem van Ewijck hit a mine and sank . The accident cost the lives of 29 crew members http://t.…",
+        "NEs": {
+            "OTHER": [
+                "Minesweeper HNLMS Willem van Ewijck"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @SorryImTexan : For all you Red Raiders out there , Wreck Em ! http://t.co/2iRVbGfKRm",
+        "NEs": {
+            "ORG": [
+                "Red Raiders"
+            ]
+        }
+    },
+    {
+        "TEXT": "Happy Birthday Ernest Hemingway ! Learn how EMC is helping digitize &amp ; store his literary works http://t.co/qj6ES9Mvjg http://t.co/ANnWtk2jj2",
+        "NEs": {
+            "PER": [
+                "Ernest Hemingway"
+            ],
+            "ORG": [
+                "EMC"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @REACTlVE : Bacon Crust Wrapped Pizza http://t.co/JuINgNhwAG",
+        "NEs": {
+            "OTHER": [
+                "Bacon Crust Wrapped Pizza"
+            ]
+        }
+    },
+    {
+        "TEXT": "JEANIE BUSS : \" I am not a basketball expert . \" Twitter : So why do you run the Lakers . . BUSS : . . . . . . . @FTodoro20 http://t.co/SPf0fgplkO",
+        "NEs": {
+            "PER": [
+                "JEANIE",
+                "BUSS",
+                "BUSS"
+            ],
+            "ORG": [
+                "Twitter",
+                "Lakers"
+            ]
+        }
+    },
+    {
+        "TEXT": "Now that is worth of ultimate respect . From Beijing to Cape Town on mountain bike . 2 years on the road ! Du Fengyan http://t.co/Lv2ck8i7M3",
+        "NEs": {
+            "LOC": [
+                "Beijing",
+                "Cape Town"
+            ],
+            "PER": [
+                "Du Fengyan"
+            ]
+        }
+    },
+    {
+        "TEXT": "RT @Ent _ Focus : Adam Lambert helps James Corden celebrate Late Late Show http://t.co/B1AyGMjC49 http://t.co/epoSvMAPaK",
+        "NEs": {
+            "PER": [
+                "Adam Lambert",
+                "James Corden"
+            ]
+        }
+    },
+    {
+        "TEXT": "Ellis Island . That ' s my Great Great Grandfather Luigi who arrived from Italy in 1895 http://t.co/hIE0eULh3S",
+        "NEs": {
+            "LOC": [
+                "Ellis Island",
+                "Italy"
+            ],
+            "PER": [
+                "Luigi"
+            ]
+        }
+    }
+]

@@ -1,0 +1,719 @@
+[
+    {
+        "TEXT": "& gt ; * The soldier was killed when another avalanche hit an army barracks in the northern area of Sonmarg , said a military spokesman .",
+        "NEs": {
+            "location": [
+                "Sonmarg"
+            ]
+        }
+    },
+    {
+        "TEXT": "& gt ; * Police last week evacuated 80 villagers from Waltengoo Nar where dozens were killed after a series of avalanches hit the area in 2005 in the south of the territory .",
+        "NEs": {
+            "location": [
+                "Waltengoo Nar"
+            ]
+        }
+    },
+    {
+        "TEXT": "& gt ; * The army on Thursday recovered the bodies of ten of its men who were killed in an avalanche the previous day .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "& gt ; * The four civilians killed included two children of a family whose house was hit by a separate avalanche , also on Wednesday , a police spokesman said .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "The bodies of the soldiers were recovered after the concerted efforts of the Avalanche Rescue Teams ( ART ) , which is equipped to work in inhospitable terrain and weather conditions .",
+        "NEs": {
+            "group": [
+                "Avalanche Rescue Teams",
+                "ART"
+            ]
+        }
+    },
+    {
+        "TEXT": "& gt ; * Arrangements are in place to carry the mortal remains of the martyrs to their native places immediately after weather becomes clear , Defence Spokesman Colonel Rajesh Kalia said .",
+        "NEs": {
+            "person": [
+                "Colonel Rajesh Kalia"
+            ]
+        }
+    },
+    {
+        "TEXT": "Visuals of the avalanche site in Gurez sector .",
+        "NEs": {
+            "location": [
+                "Gurez sector"
+            ]
+        }
+    },
+    {
+        "TEXT": "( Source : ANI ) Visuals of the avalanche site in Gurez sector .",
+        "NEs": {
+            "group": [
+                "ANI"
+            ],
+            "location": [
+                "Gurez sector"
+            ]
+        }
+    },
+    {
+        "TEXT": "“ Arrangements are in place to carry the mortal remains of the martyrs to their native places immediately after weather becomes clear , ” Defence Spokesman Colonel Rajesh Kalia said .",
+        "NEs": {
+            "person": [
+                "Rajesh Kalia"
+            ]
+        }
+    },
+    {
+        "TEXT": "“ Swift action by a few soldiers at the post and timely help from the villagers of Mahazgund ensured saving of six soldiers .",
+        "NEs": {
+            "location": [
+                "Mahazgund"
+            ]
+        }
+    },
+    {
+        "TEXT": "Unfortunately , three soldiers could not be saved whose bodies were retrieved on January 26 by the ARTs that were rushed to the post , ” he said .",
+        "NEs": {
+            "group": [
+                "ARTs"
+            ]
+        }
+    },
+    {
+        "TEXT": "^ Function ^ : ^ I ^ post ^ the ^ article ' s ^ text ^ as ^ a ^ comment ^ if ^ the ^ website ^ is ^ adblocker ^ unfriendly .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Road and airport closure isolate Srinagar as avalanche risk remains high",
+        "NEs": {
+            "location": [
+                "Srinagar"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ IMAGE ] ( http://images.indianexpress.com/2015/05/drdo-logo-thumb.jpg?w=480 )",
+        "NEs": {}
+    },
+    {
+        "TEXT": "The DRDO is working on projects to develop new technologies to predict avalanches in a much precise manner .",
+        "NEs": {
+            "group": [
+                "DRDO"
+            ]
+        }
+    },
+    {
+        "TEXT": "( File Photo ) The DRDO is working on projects to develop new technologies to predict avalanches in a much precise manner .",
+        "NEs": {
+            "group": [
+                "DRDO"
+            ]
+        }
+    },
+    {
+        "TEXT": "The Defence Research Development Organisation ( DRDO ) is working on four projects to develop new technologies for more accurate prediction of avalanches , the government said on Friday .",
+        "NEs": {
+            "group": [
+                "Defence Research Development Organisation",
+                "DRDO"
+            ]
+        }
+    },
+    {
+        "TEXT": "“ Presently , the DRDO is working on four projects to develop new technologies for more accurate prediction of avalanches , ” he said in a written response .",
+        "NEs": {
+            "group": [
+                "DRDO"
+            ]
+        }
+    },
+    {
+        "TEXT": "Replying to another question , Bhamre said the jawans deployed at places such as Siachen Glacier are provided with the best-quality winter clothing .",
+        "NEs": {
+            "person": [
+                "Bhamre"
+            ],
+            "location": [
+                "Siachen Glacier"
+            ]
+        }
+    },
+    {
+        "TEXT": "He said the soldiers deployed in Siachen are being provided pre-fabricated insulated shelters .",
+        "NEs": {
+            "location": [
+                "Siachen"
+            ]
+        }
+    },
+    {
+        "TEXT": "“ In Navy , advisories on mental health are issued from time to time and stress relieving activities like yoga , art of living are conducted periodically .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "^ Function ^ : ^ I ^ post ^ the ^ article ' s ^ text ^ as ^ a ^ comment ^ if ^ the ^ website ^ is ^ adblocker ^ unfriendly .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "& gt ; Umm , where are all these alleged criticisms ?",
+        "NEs": {}
+    },
+    {
+        "TEXT": "This fucker should be sent up the fucking river because of what he did not because he likes Trump .",
+        "NEs": {
+            "person": [
+                "Trump"
+            ]
+        }
+    },
+    {
+        "TEXT": "A lot of people thought it was a joke but did n ' t think it was appropriate for a PR exec to make .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Toni Kroos - [ here ] ( https://www.reddit.com/r/soccer/comments/5my29a/nearcertain_fifpro_xi_for_2016_neuer_dani_alves/ ) is the ( near-certain ) full XI .",
+        "NEs": {
+            "person": [
+                "Toni Kroos"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ Rip Chad ] ( https://www.reddit.com/r/soccer/comments/5mi9bl/granada_and_memo_ochoa_are_ready_to_end_real/ )",
+        "NEs": {
+            "person": [
+                "Chad"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ link to thread ] ( https://www.reddit.com/r/news/comments/5pc0rf/comment/dcq17sw?st=IY7VWPYA&amp;sh=6e21e751 )",
+        "NEs": {}
+    },
+    {
+        "TEXT": "https://www.reddit.com/r/soccer/comments/5qop2n/deyverson_al%C3%A1ves_and_god%C3%ADn_atl%C3%A9tico_spitting_at/",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Nope , [ I have multiple sources .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "[ Action plan already in place ] ( https://np.reddit.com/r/newzealand/comments/5nvswj/my_israeli_war_effort_and_money_saving_tip_how_to/?ref=search_posts )",
+        "NEs": {}
+    },
+    {
+        "TEXT": "All those in favor say \" Jina did it \" .",
+        "NEs": {
+            "person": [
+                "Jina"
+            ]
+        }
+    },
+    {
+        "TEXT": "What country in Europe has n ' t she stabbed in the back or undermined their interests ? \"",
+        "NEs": {
+            "location": [
+                "Europe"
+            ]
+        }
+    },
+    {
+        "TEXT": "He got sent off in the last game vs Bordeaux .",
+        "NEs": {
+            "group": [
+                "Bordeaux"
+            ]
+        }
+    },
+    {
+        "TEXT": "https://www.reddit.com/r/newzealand/comments/5p0edk/comment/dcnrf9t?st=IY5U4XSO&amp;sh=9fd7c3a9Ijustcouldn'tseetheedgeoftheNewplymouthradarcircleonOP'spic.",
+        "NEs": {}
+    },
+    {
+        "TEXT": "/ r / politics yesterday : Trump has n ' t had a press conference in a long time , he ' s avoiding the media",
+        "NEs": {
+            "person": [
+                "Trump"
+            ]
+        }
+    },
+    {
+        "TEXT": "It ' s been a hit out in the world since Fragrant posted it here , Daily Edge Sid a piece too even - https://www.reddit.com/r/ireland/comments/5m6bs8/kerrygolds_african_tv_ads_are_a_little_bit_uhh/",
+        "NEs": {
+            "creative_work": [
+                "Fragrant"
+            ],
+            "person": [
+                "Sid"
+            ]
+        }
+    },
+    {
+        "TEXT": "Guy sounds like a Grade A Douche",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Biased , but I think the best part of this is that a MetaCanadian has the top comment .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "https://www.reddit.com/r/soccer/comments/5nhf8x/walter_smithmessi_was_right_we_did_play/dcbjevx/?context=3onthecontrarytrueMadridistasloveme.😢CryMessifanboy",
+        "NEs": {}
+    },
+    {
+        "TEXT": "It ' s actually copypasta from a post I did a couple April fools ago when r / soccer was all troll posts .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "I hope y ' all take back what you said at Glenn Greenwald in the last thread .",
+        "NEs": {
+            "person": [
+                "Glenn Greenwald"
+            ]
+        }
+    },
+    {
+        "TEXT": "LMAOOOOOOOO , are the Democrats really doubling down on the thing that got Trump elected in first place ?",
+        "NEs": {
+            "group": [
+                "Democrats"
+            ],
+            "person": [
+                "Trump"
+            ]
+        }
+    },
+    {
+        "TEXT": "Living Computer Museum + Labs , Skyview Observatory , Smith Tower and Observation Deck ,",
+        "NEs": {
+            "location": [
+                "Living Computer Museum + Labs",
+                "Skyview Observatory",
+                "Smith Tower",
+                "Observation Deck"
+            ]
+        }
+    },
+    {
+        "TEXT": "You posted this in TD so why are you still posting here ?",
+        "NEs": {
+            "location": [
+                "TD"
+            ]
+        }
+    },
+    {
+        "TEXT": "Aww shit this gonna go into overdrive now",
+        "NEs": {}
+    },
+    {
+        "TEXT": "CVS selling their own version of epipen at 1 / 6 th price .",
+        "NEs": {
+            "corporation": [
+                "CVS"
+            ],
+            "product": [
+                "epipen"
+            ]
+        }
+    },
+    {
+        "TEXT": "Trump : I ' m going to bring back manufacturing jobs to Michigan !",
+        "NEs": {
+            "person": [
+                "Trump"
+            ],
+            "location": [
+                "Michigan"
+            ]
+        }
+    },
+    {
+        "TEXT": "] ( https://www.reddit.com/r/soccer/comments/13xmsv/we_all_know_the_neymars_the_g%C3%B6tzes_and_the_iscos/c785ffz/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=soccer )",
+        "NEs": {}
+    },
+    {
+        "TEXT": "I looked this up yesterday actually ; the average household income for Auckland in 2016 was $ 104 k .",
+        "NEs": {
+            "location": [
+                "Auckland"
+            ]
+        }
+    },
+    {
+        "TEXT": "You mean they had rain [ 4 years ago ] ( https://www.reddit.com/r/ireland/comments/11mm7z/plunkett_station_waterford/ ) in Ireland .",
+        "NEs": {
+            "location": [
+                "Ireland"
+            ]
+        }
+    },
+    {
+        "TEXT": "I remember having parliament on the radio in my car and hearing Leyonhjelm [ give this speach ] ( https://np.reddit.com/r/australia/comments/307z4f/leyonhjelm_on_metadata/ ) which was impressive .",
+        "NEs": {
+            "person": [
+                "Leyonhjelm"
+            ]
+        }
+    },
+    {
+        "TEXT": "Looks like Grimaldo is linked with MU too",
+        "NEs": {
+            "person": [
+                "Grimaldo"
+            ],
+            "group": [
+                "MU"
+            ]
+        }
+    },
+    {
+        "TEXT": "But I thought he had joined Boro ?",
+        "NEs": {
+            "group": [
+                "Boro"
+            ]
+        }
+    },
+    {
+        "TEXT": "You posted in / r / calgary too . .",
+        "NEs": {
+            "location": [
+                "calgary"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ This interview ] ( https://www.reddit.com/r/Calgary/comments/4m2l26/unbelievable_interview_on_770_with_sean_chu/ ) from June was hilarious until you realize that he makes decision that affect the direction the city moves in .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "& gt ; Cavani has the highest conversion rate in Europe",
+        "NEs": {
+            "person": [
+                "Cavani"
+            ]
+        }
+    },
+    {
+        "TEXT": "& gt ; It will be very telling ( though probably unsurprising ) how folks like Trey Gowdy and Jason Chaffetz react to this .",
+        "NEs": {
+            "person": [
+                "Trey Gowdy",
+                "Jason Chaffetz"
+            ]
+        }
+    },
+    {
+        "TEXT": "* * redditor * * : NLWastedLink",
+        "NEs": {}
+    },
+    {
+        "TEXT": "Dzeko penalty miss will be [ r / soccer ] ( https://www.reddit.com/r/soccer/ ) top post .",
+        "NEs": {
+            "person": [
+                "Dzeko"
+            ]
+        }
+    },
+    {
+        "TEXT": "Wow , / r / news totally kicked the shit out of / r / politics on this topic .",
+        "NEs": {
+            "group": [
+                "/ r / news",
+                "/ r / politics"
+            ]
+        }
+    },
+    {
+        "TEXT": "Here ' s a link to a Redditor ' s experience in Calgary :",
+        "NEs": {
+            "location": [
+                "Calgary"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ OP of the previous threads could n ' t handle the Ronaldo criticism .",
+        "NEs": {
+            "person": [
+                "Ronaldo"
+            ]
+        }
+    },
+    {
+        "TEXT": "You ' re speaking from a Brit ' s point of view .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "* * submission title * * : Battle underway for return of Napoleon ' s horse Marengo to Ireland",
+        "NEs": {
+            "person": [
+                "Napoleon"
+            ]
+        }
+    },
+    {
+        "TEXT": "* * submission title * * : Does anyone know if anyone has started protesting at CVG yet ?",
+        "NEs": {
+            "location": [
+                "CVG"
+            ]
+        }
+    },
+    {
+        "TEXT": "Reddit ' s tough guys say yes .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "they changed all the topics to Zlatan .",
+        "NEs": {
+            "product": [
+                "Zlatan"
+            ]
+        }
+    },
+    {
+        "TEXT": "The mods deleted [ this story about activists being beaten by Trump supporters ] ( https://m.reddit.com/r/politics/comments/5m3r1c/activists_brutally_attacked_by_donald_trump/ ) for being off topic .",
+        "NEs": {
+            "group": [
+                "mods"
+            ],
+            "person": [
+                "Trump"
+            ]
+        }
+    },
+    {
+        "TEXT": "Yeah , and they get all misty-eyed about government-owned businesses and how awful it is that Costello sold them off etc , only because they ' re not old enough to remember having to deal with government-owned businesses and how fucking useless they are :",
+        "NEs": {
+            "person": [
+                "Costello"
+            ]
+        }
+    },
+    {
+        "TEXT": "Step 2 : [ Google ] ( http://www.google.co.nz )",
+        "NEs": {
+            "creative_work": [
+                "Google"
+            ]
+        }
+    },
+    {
+        "TEXT": "Lol this is what city pussis think of living outside a major city is like",
+        "NEs": {}
+    },
+    {
+        "TEXT": "You could try and send an email to the teams and see what they reply : D",
+        "NEs": {}
+    },
+    {
+        "TEXT": "* * Edit : * * Wow , that blew up .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "I asked Bellerin v walker in a match thread a few months ago , the results might surprise you .",
+        "NEs": {
+            "person": [
+                "Bellerin",
+                "walker"
+            ]
+        }
+    },
+    {
+        "TEXT": "Where ' s the one from ~ ~ Syria ~ ~ Serbia where some guy banged it over the bar from the goalline ?",
+        "NEs": {
+            "group": [
+                "Syria",
+                "Serbia"
+            ]
+        }
+    },
+    {
+        "TEXT": "Hey Tom , can you comment on this thread ?",
+        "NEs": {
+            "person": [
+                "Tom"
+            ]
+        }
+    },
+    {
+        "TEXT": "& gt ; you cannot infer much from a single quarter ' s GDP statistics .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "True , but I imagine it would be a lot lower and as I pointed out to Andrew Little would be cheaper than [ eliminating fees .",
+        "NEs": {
+            "person": [
+                "Andrew Little"
+            ]
+        }
+    },
+    {
+        "TEXT": "She ' s been making me question my sexuality since The X-Files started .",
+        "NEs": {
+            "creative_work": [
+                "The X-Files"
+            ]
+        }
+    },
+    {
+        "TEXT": "* * submission title * * : PSG tell Inter & amp ; Juve Verratti will cost € 100 M",
+        "NEs": {
+            "group": [
+                "PSG",
+                "Inter",
+                "Juve"
+            ],
+            "person": [
+                "Verratti"
+            ]
+        }
+    },
+    {
+        "TEXT": "Not sure if trust Donald on this .",
+        "NEs": {
+            "person": [
+                "Donald"
+            ]
+        }
+    },
+    {
+        "TEXT": "EDIT : No actually screw that , i ' d like to ask why you ' d want attacks on Trump supporters to continue ?",
+        "NEs": {
+            "person": [
+                "Trump"
+            ]
+        }
+    },
+    {
+        "TEXT": "Perhaps this paper instead actually suggests that students born in July are underdiagnosed ?",
+        "NEs": {}
+    },
+    {
+        "TEXT": "If PNG is undeveloped , would n ' t resettling the boats full of surgeons be exactly what they need ?",
+        "NEs": {
+            "location": [
+                "PNG"
+            ]
+        }
+    },
+    {
+        "TEXT": "Maybe you could try contacting the producer ( Great Southern Television )",
+        "NEs": {
+            "corporation": [
+                "Great Southern Television"
+            ]
+        }
+    },
+    {
+        "TEXT": "There is nothing wrong with the Huron disposal site .",
+        "NEs": {
+            "group": [
+                "Huron"
+            ]
+        }
+    },
+    {
+        "TEXT": "Morocco here we come let ' s make that 4 - 11 - 13 not 14 loss",
+        "NEs": {
+            "group": [
+                "Morocco"
+            ]
+        }
+    },
+    {
+        "TEXT": "98 . 2 % of Costa Rica ' s electricity came from renewable sources in 2016 .",
+        "NEs": {
+            "location": [
+                "Costa Rica"
+            ]
+        }
+    },
+    {
+        "TEXT": "Was on the DSP and found his / her way back to a normal life with his / her own income .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "* * submission title * * : Proposed class action against B . C .",
+        "NEs": {
+            "group": [
+                "B . C"
+            ]
+        }
+    },
+    {
+        "TEXT": "[ Source ] ( https://www.reddit.com/r/southafrica/comments/5sdwm2/breaking_joost_van_der_westhuizen_dies/ ) at / r / southafrica",
+        "NEs": {
+            "location": [
+                "/ r /"
+            ]
+        }
+    },
+    {
+        "TEXT": "The idea that one IRA was kinder or more moral than the other is ludicrous .",
+        "NEs": {
+            "group": [
+                "IRA"
+            ]
+        }
+    },
+    {
+        "TEXT": "I hear audio in the first AA streamable link but not the one with full build up .",
+        "NEs": {
+            "group": [
+                "AA"
+            ]
+        }
+    },
+    {
+        "TEXT": "Surprisingly no PMs yet , got tagged in [ this ] ( https://www.reddit.com/r/worldnews/comments/5fqfwh/platypus_venom_paves_way_to_possible_diabetes/damdpro/ ) though , and it ' s pretty thorough .",
+        "NEs": {}
+    },
+    {
+        "TEXT": "The rest of your post has already been refuted by yourself , as you acknowledged [ in another post ] ( https://np.reddit.com/r/news/comments/5nur87/former_mi6_spy_known_to_us_agencies_is_author_of/dcf1k74/ ) that what Paul Manafort did is * * a fucking crime * * .",
+        "NEs": {
+            "person": [
+                "Paul Manafort"
+            ]
+        }
+    },
+    {
+        "TEXT": "For those complaining about Rule 6 ( not related to Calgary ) . . . . this story is an update to this previous / r / Calgary submission which did not get removed :",
+        "NEs": {
+            "location": [
+                "Calgary"
+            ]
+        }
+    },
+    {
+        "TEXT": "You do realize this was published by CBC Manitoba .",
+        "NEs": {
+            "corporation": [
+                "CBC Manitoba"
+            ]
+        }
+    },
+    {
+        "TEXT": "* * submission title * * : Diego Rolan goal vs PSG ( 1 - 1 )",
+        "NEs": {
+            "person": [
+                "Diego Rolan"
+            ],
+            "group": [
+                "PSG"
+            ]
+        }
+    },
+    {
+        "TEXT": "Dude [ definitely definitely ] ( https://www.reddit.com/r/unitedkingdom/comments/5fwbo2/can_someone_explain_why_capitalism_isnt_solving/ ) does n ' t understand the housing market at all .",
+        "NEs": {}
+    }
+]
